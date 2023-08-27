@@ -1,0 +1,10 @@
+
+*{
+  margin: 0
+}
+
+.formPage{
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
